@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Application</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../static/style.css">
+<!--        <link rel="stylesheet" href="../static/results.css">-->
+		     <script src="../static/jquery-2.0.3.min.js"></script>
+        <link rel="stylesheet" href="../static/font-awesome-4.7.0/css/font-awesome.css">
+        
+		<style>
+			.button {
+				  background-color: #286090;
+				  border: none;
+				  color: white;
+				  border-color: #2e6da4;
+				  position: absolute;
+				  right: 0;
+				  text-align: center;
+				  display: inline-block;
+				  font-size: 16px;
+				  margin: 4px 2px;
+				  cursor: pointer;
+			}
+			.button2 {
+				  background-color: #286090;
+				  border : none;
+				  border-color: #2e6da4;
+				  color: white;
+				  position: absolute;
+				  left: 10;
+				  text-align: center;
+				  display: inline-block;
+				  font-size: 16px;
+				  margin: 4px 2px;
+				  cursor: pointer;
+			}
+			ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  background-color: #23a9bb;
+			  align: center;
+			}
+
+			li {
+				  float:left;
+				  margin-right: 210px;
+				  margin-left: 210px;
+			}
+
+			li a {
+			  display: inline-block;
+			  color: #124046;
+			  font-size:20px;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			  float: none;
+
+			}
+
+			li a:hover {
+			  background-color: #3f85c1;
+			}
+			body {
+            font-family: 'Fira Sans', sans-serif;
+            background-image: url("../static/bg1.png");
+           }
+           @keyframes spinning {
+			from { transform: rotate(0deg) }
+			to { transform: rotate(360deg) } }
+			.spin { animation-name: spinning; animation-duration: 15s; animation-iteration-count: infinite;
+			/* linear | ease | ease-in | ease-out | ease-in-out */ animation-timing-function: linear; }
+
+
+		</style>
+	
+		<nav class="navbar navbar-dark bg-primary justify-content-center">
+		 <center> <img id="logo"  src="../static/logo.svg" style="height: 100px; align: center;"  class="spin" alt="logo">  </center>
+
+			<h3 class="text-white" align="center" style = "font-size:18px; height: 15px";>ASPECT-BASED SENTIMENT ANALYSIS</h3>
+            <h3 class="text-white" align="center" style = "font-size:18px; height: 50px";>RESTAURANT DOMAIN</h3>
+
+		</nav>
+</head>
+
+<body>
+<body>
+<div>
+    <div class="col-xs-8 col-xs-offset-2">
+
+                <form method="POST">
+						<textarea name="query" id ="query" rows="3" cols="110" wrap="soft" placeholder="Input a query" style="margin: 0px; width: 900px; height: 90px;">{{data[0].query}}</textarea>
+						
+						<button class="button" value="predict" type="submit">Analyze</button>
+
+						
+						<p style="color:red" align="center">&nbsp;</p>
+						<p style="color:red" align="center">&nbsp;</p>
+					
+                </form>
+
+				<h3 class="text-muted" style="color:#4682B4" align="center"><strong>{{data[0].label}}</strong></h3>
+
+				<p style="color:red" align="center">&nbsp;</p>
+				<p style="color:red" align="center">&nbsp;</p>
+
+				
+    </div>
+</div>
+</body>
+</html>

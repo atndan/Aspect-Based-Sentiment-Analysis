@@ -1,0 +1,2348 @@
+#1
+yum
+{FOOD#QUALITY, positive}
+
+#2
+serves really good sushi
+{FOOD#QUALITY, positive}
+
+#3
+not the biggest portions but adequate
+{FOOD#STYLE_OPTIONS, positive}
+
+#4
+green tea creme brulee is a must
+{FOOD#QUALITY, positive}
+
+#5
+dont leave the restaurant without it
+{RESTAURANT#GENERAL, negative}
+
+#6
+no comparison
+{RESTAURANT#GENERAL, negative}
+
+#7
+– i cant say enough about this place
+{RESTAURANT#GENERAL, positive}
+
+#8
+it has great sushi and even better service
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#9
+the entire staff was extremely accomodating and tended to my every need
+{SERVICE#GENERAL, positive}
+
+#10
+ive been to this restaurant over a dozen times with no complaints to date
+{RESTAURANT#GENERAL, positive}
+
+#11
+snotty attitude
+{SERVICE#GENERAL, negative}
+
+#12
+– we were treated very rudely here one time for breakfast
+{SERVICE#GENERAL, negative}
+
+#13
+the owner is belligerent to guests that have a complaint
+{SERVICE#GENERAL, negative}
+
+#14
+good food
+{FOOD#QUALITY, positive}
+
+#15
+this is a great place to get a delicious meal
+{FOOD#QUALITY, positive}
+
+#16
+we never had to wait more than num minutes
+{SERVICE#GENERAL, negative}
+
+#17
+the staff is pretty friendly
+{SERVICE#GENERAL, positive}
+
+#18
+the onion rings are great
+{FOOD#QUALITY, positive}
+
+#19
+they are not greasy or anything
+{FOOD#QUALITY, positive}
+
+#20
+overrated
+{RESTAURANT#GENERAL, negative}
+
+#21
+– i was highly disappointed in the food at pagoda
+{FOOD#QUALITY, negative}
+
+#22
+the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns the few they actually give youwere not good
+{FOOD#QUALITY, negative}
+
+#23
+nice ambience but highly overrated place
+{AMBIENCE#GENERAL, positive}
+
+#24
+i will not go back
+{RESTAURANT#GENERAL, negative}
+
+#25
+worst service i ever had
+{SERVICE#GENERAL, negative}
+
+#26
+everyone that sat in the back outside agreed that it was the worst service we had ever received
+{SERVICE#GENERAL, negative}
+
+#27
+our waiter was nonexistent and after our food finally arrived over an hour after we ordered we were not given any water or utensils
+{SERVICE#GENERAL, negative}
+
+#28
+i complained to the manager but he was not even apologetic
+{SERVICE#GENERAL, negative}
+
+#29
+i will never return again
+{RESTAURANT#GENERAL, negative}
+
+#30
+fabulous italian food
+{FOOD#QUALITY, positive}
+
+#31
+– i highly recommend mioposto
+{FOOD#QUALITY, positive}
+
+#32
+i am so happy to have a wonderful italian restaurant in my neighborhood
+{RESTAURANT#GENERAL, positive}
+
+#33
+the wine list is wonderful and the food reminds me of my recent trip to italy
+{FOOD#QUALITY, positive}, {DRINKS#STYLE_OPTIONS, positive}
+
+#34
+i love this restaurant
+{RESTAURANT#GENERAL, positive}
+
+#35
+– i will never forget the amazing meal service and ambiance i experience at this restaurant
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#36
+it was absolutely amazing
+{FOOD#QUALITY, positive}
+
+#37
+the wine list is incredible and extensive and diverse the food is all incredible and the staff was all very nice good at their jobs and cultured
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {DRINKS#STYLE_OPTIONS, positive}
+
+#38
+i have not a bad thing to say about this place
+{RESTAURANT#GENERAL, positive}
+
+#39
+amazing
+{FOOD#QUALITY, positive}
+
+#40
+i cannot wait to go back again this coming weekend
+{RESTAURANT#GENERAL, positive}
+
+#41
+mmm good
+{RESTAURANT#GENERAL, positive}
+
+#42
+the food was great
+{FOOD#QUALITY, positive}
+
+#43
+its very reasonably priced esp for the quality of the food
+{FOOD#QUALITY, positive}, {RESTAURANT#PRICES, positive}, {FOOD#PRICES, positive}
+
+#44
+i had the kafta plate and it was perfect
+{FOOD#QUALITY, positive}
+
+#45
+were going back d
+{RESTAURANT#GENERAL, positive}
+
+#46
+finally a meal that you will remember for a long time
+{FOOD#QUALITY, positive}
+
+#47
+– in a age of incremental cost cutting in restaurants its nice to see a place that bucks that trend and just plain delivers high quality food and good service period
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#48
+this is the place to relax and enjoy the finest quality food the industry can offer
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#49
+caution its real food for people who love the best
+{FOOD#QUALITY, positive}
+
+#50
+very disappointing
+{FOOD#QUALITY, negative}
+
+#51
+– i took my parents here for their anniversaryvery very disappointed
+{RESTAURANT#GENERAL, neutral}
+
+#52
+i liked the atmosphere very much but the food was not worth the price
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, neutral}, {FOOD#PRICES, negative}
+
+#53
+i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it
+{FOOD#QUALITY, negative}
+
+#54
+rice is too dry tuna wasnt so fresh either
+{FOOD#QUALITY, negative}
+
+#55
+nothing really came across as outstanding
+{RESTAURANT#GENERAL, negative}
+
+#56
+very disappointed
+{FOOD#QUALITY, negative}
+
+#57
+i have eaten here three times and have found the quality and variety of the fish to be excellent
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#58
+however the value and service are both severely lacking
+{SERVICE#GENERAL, negative}, {RESTAURANT#PRICES, negative}
+
+#59
+furthermore while the fish is unquestionably fresh rolls tend to be inexplicably bland
+{FOOD#QUALITY, negative}
+
+#60
+the service ranges from mediocre to offensive
+{SERVICE#GENERAL, negative}
+
+#61
+on a recent trip our waiter was extremely dismissive while no less than three staff members waited handandfoot on a pair of japanese girls seated nearby
+{SERVICE#GENERAL, negative}
+
+#62
+we were then charged for their most expensive sake num per serving when we in fact drank a sake of less than half that price
+{DRINKS#PRICES, negative}, {FOOD#PRICES, negative}
+
+#63
+freshest sushi – i love this restaurant
+{RESTAURANT#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#64
+they pay such detail to everything from miso soup to complex rolls
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#65
+the sashimi was the freshest and most tender i have ever tasted
+{FOOD#QUALITY, positive}
+
+#66
+their apps are all delicious
+{FOOD#QUALITY, positive}
+
+#67
+the only drawback is that this place is really expensive and the portions are on the small side
+{RESTAURANT#PRICES, negative}
+
+#68
+but the space is small and lovely and the service is helpful
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#69
+you are bound to have a very charming time
+{RESTAURANT#GENERAL, positive}
+
+#70
+not recommanded
+{RESTAURANT#GENERAL, negative}
+
+#71
+– the food was not great the waiters were rude
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}
+
+#72
+it is not worth going at all and spend your money there
+{RESTAURANT#GENERAL, negative}, {RESTAURANT#PRICES, negative}
+
+#73
+great service
+{SERVICE#GENERAL, positive}
+
+#74
+– pretty cheap for sit down mexican and downtown
+{RESTAURANT#PRICES, positive}
+
+#75
+my service was stellar
+{SERVICE#GENERAL, positive}
+
+#76
+the bus boy even spotted that my table was shaking a stabilized it for me
+{SERVICE#GENERAL, positive}
+
+#77
+food was fine with a some littletastierthannormal salsa
+{FOOD#QUALITY, positive}
+
+#78
+if youre in the area you shouldnt be disappointed
+{RESTAURANT#GENERAL, positive}
+
+#79
+ok – maybe i went in on someones bad day
+{RESTAURANT#GENERAL, negative}
+
+#80
+the food was great the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#81
+took forever to get our order taken water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention
+{SERVICE#GENERAL, negative}
+
+#82
+i dont know if ill be back
+{RESTAURANT#GENERAL, negative}
+
+#83
+mama mia – i live in the neighborhood and feel lucky to live by such a great pizza place
+{RESTAURANT#GENERAL, positive}
+
+#84
+the only problem is you really have to warm up the pizza before its edible even when you order ahead
+{FOOD#QUALITY, negative}
+
+#85
+but once done its not too much dough not too much cheese not too much sauce
+{FOOD#STYLE_OPTIONS, negative}
+
+#86
+best sushi in town
+{FOOD#QUALITY, positive}
+
+#87
+everything you want and more very fresh
+{FOOD#QUALITY, positive}
+
+#88
+its worth the wait especially since theyll give you a call when the table is ready
+{SERVICE#GENERAL, positive}
+
+#89
+the best calamari in seattle
+{FOOD#QUALITY, positive}
+
+#90
+– and the best summertime deck experiencethey will even bring you a blanket if you get cold in the seattle evening weather
+{AMBIENCE#GENERAL, positive}
+
+#91
+a perfect place to take out of town guests any time of the year
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#92
+endless fun awesome music great staff
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#93
+– by far the best bar in the east village
+{RESTAURANT#GENERAL, positive}
+
+#94
+i went there with some friends one night to play bingo and watch the sox game and it was a blast
+{RESTAURANT#GENERAL, positive}
+
+#95
+every time num sixtynine is called the bartender buys everyone drinks
+{SERVICE#GENERAL, positive}
+
+#96
+been there lots since and its always a good time
+{RESTAURANT#GENERAL, positive}
+
+#97
+great draft and bottle selection and the pizza rocks
+{FOOD#QUALITY, positive}, {DRINKS#STYLE_OPTIONS, positive}
+
+#98
+definitely has one of the best jukeboxs ive seen in a long long time
+{AMBIENCE#GENERAL, positive}
+
+#99
+i found a new home on second avenue
+{RESTAURANT#GENERAL, positive}
+
+#100
+just go there and see for yourself
+{RESTAURANT#GENERAL, positive}
+
+#101
+the food is great the bartenders go that extra mile
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#102
+you need to watch your game they will have it on for you
+{RESTAURANT#GENERAL, neutral}
+
+#103
+the owners are great fun and the beer selection is worth staying for
+{SERVICE#GENERAL, positive}, {DRINKS#STYLE_OPTIONS, positive}, {AMBIENCE#GENERAL, positive}, {DRINKS#QUALITY, positive}
+
+#104
+and the upstairs is a great place to hang out
+{AMBIENCE#GENERAL, positive}
+
+#105
+not alot of smoking places left in new york but i have found my favorite smoking balconey in the city
+{AMBIENCE#GENERAL, positive}
+
+#106
+kudos to these guys
+{RESTAURANT#GENERAL, positive}
+
+#107
+i found a new home and just moved with a long lease
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#108
+the sushi here is delicious
+{FOOD#QUALITY, positive}
+
+#109
+they have a wide variety of fish and they even list which oceans they come from atlantic or pacific
+{FOOD#STYLE_OPTIONS, positive}
+
+#110
+ive had the jellyfish horse mackerel blue fin tuna and the sake ikura roll among others and they were all good
+{FOOD#QUALITY, positive}
+
+#111
+my only negative comment is that i wish the pieces were a little bigger
+{RESTAURANT#GENERAL, neutral}
+
+#112
+the decor is rustic traditional japanese
+{AMBIENCE#GENERAL, positive}
+
+#113
+the crowd is mixed yuppies young and old
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#114
+the service was courteous and attentive
+{SERVICE#GENERAL, positive}
+
+#115
+mediocre food
+{FOOD#QUALITY, negative}
+
+#116
+the outside patio area has an abbreviated menu
+{AMBIENCE#GENERAL, positive}
+
+#117
+my gf and i both agreed the food was very mediocre especially considering the price
+{FOOD#QUALITY, negative}, {FOOD#PRICES, negative}
+
+#118
+we are locals and get the feeling the only way this place survives with such average food is because most customers are probably onetime customer tourists
+{RESTAURANT#GENERAL, neutral}
+
+#119
+service was decent
+{SERVICE#GENERAL, neutral}
+
+#120
+drinks were good
+{DRINKS#QUALITY, positive}
+
+#121
+unless you are just stopping in for a few drinks i wouldnt recommend going here
+{RESTAURANT#GENERAL, negative}
+
+#122
+you are likely to be disappointed
+{FOOD#QUALITY, negative}
+
+#123
+excellent food nice ambience fairly expensive
+{FOOD#QUALITY, positive}, {RESTAURANT#PRICES, positive}, {AMBIENCE#GENERAL, positive}
+
+#124
+– i loved the pumpkin ravioli and the goat cheese gnocchi num big ones to a plate instead of num or so little gnocchis and my sister loved her filet mignon on top of spinach and mashed potatoes
+{FOOD#STYLE_OPTIONS, positive}
+
+#125
+the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney
+{AMBIENCE#GENERAL, positive}
+
+#126
+it was romantic and even nice even with my sister reminded me of italy and had artwork and music that kept up the feeling of being in a mediterrean villa
+{AMBIENCE#GENERAL, positive}
+
+#127
+i recommend it for a night when you want to splurge it was a bit expensive
+{RESTAURANT#PRICES, negative}
+
+#128
+best indian food in la
+{FOOD#QUALITY, positive}
+
+#129
+the best thing is the prices are also quite reasonable
+{RESTAURANT#PRICES, positive}
+
+#130
+the chicken curry and chicken tikka masala are my favorite meat dishes
+{FOOD#QUALITY, positive}
+
+#131
+the chana masala garbanzo beans are also excellent
+{FOOD#QUALITY, positive}
+
+#132
+its located in a strip mall near the beverly center not the greatest location but the food keeps me coming back for more
+{FOOD#QUALITY, positive}, {LOCATION#GENERAL, positive}
+
+#133
+hidden little jem
+{RESTAURANT#GENERAL, positive}
+
+#134
+– tucked away over by the beverly center
+{RESTAURANT#GENERAL, neutral}
+
+#135
+never too crowded and always great service
+{SERVICE#GENERAL, positive}, {RESTAURANT#MISCELLANEOUS, positive}
+
+#136
+i think i have probably tried each item on their menu at least once it is all excellent
+{FOOD#QUALITY, positive}
+
+#137
+i can highly recommend their various saag and paneer and korma
+{FOOD#QUALITY, positive}
+
+#138
+you routinely see indian families and friends dining there which is always a good sign
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#139
+i appreciate their delivery too
+{SERVICE#GENERAL, positive}
+
+#140
+nice food but no spice
+{FOOD#QUALITY, positive}
+
+#141
+– i really enjoyed my meal here
+{FOOD#QUALITY, positive}
+
+#142
+i had yummy lamb korma saag paneer samosas naan etc
+{FOOD#QUALITY, positive}
+
+#143
+the food was all good but it was way too mild
+{RESTAURANT#GENERAL, neutral}
+
+#144
+normally places ask how hot you want it but they didnt
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, positive}
+
+#145
+i should have thought to bring it up but never expected the food to be that mild
+{FOOD#QUALITY, negative}
+
+#146
+the naan was some of the best ive had and i really enjoyed the bhartha not too tomatoey
+{FOOD#QUALITY, positive}
+
+#147
+even the chickpeas which i normally find too dry were good
+{RESTAURANT#GENERAL, neutral}
+
+#148
+and they packaged everything nicely so it didnt spill
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#149
+awesome find
+{RESTAURANT#GENERAL, positive}
+
+#150
+– i dont understand how i was a stranger to this place for so long the fajita salad the colorado the fajitas everything is delicious
+{FOOD#QUALITY, positive}
+
+#151
+i love the warm cosy environment
+{AMBIENCE#GENERAL, positive}
+
+#152
+i just found out that you can have the place to yourself on nights and weekends for a private party cant wait to celebrate my next birthday there
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#153
+best restaurant in the world great decor great customer service friendly manager
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#154
+i am never disappointed with there food
+{FOOD#QUALITY, positive}
+
+#155
+the atmosphere is great
+{AMBIENCE#GENERAL, positive}
+
+#156
+great lunch spot
+{RESTAURANT#GENERAL, positive}
+
+#157
+– great financial district mexican spot
+{RESTAURANT#GENERAL, positive}
+
+#158
+always busy but they are good at seating you promptly and have quick service
+{SERVICE#GENERAL, positive}
+
+#159
+everything ive had here is good taco salads burritos enchiladas i love this place
+{FOOD#QUALITY, positive}
+
+#160
+also have great margaritas
+{DRINKS#QUALITY, positive}
+
+#161
+you can order to go if you have to get back to the office too
+{RESTAURANT#GENERAL, positive}
+
+#162
+lebanese foodyum
+{FOOD#QUALITY, positive}
+
+#163
+– ive been to open sesame only once but im still reeling from the experience
+{RESTAURANT#GENERAL, positive}
+
+#164
+the food is simply unforgettable
+{FOOD#QUALITY, positive}
+
+#165
+the presentation of the food was an added bonus it looked just as great as it tasted
+{FOOD#QUALITY, positive}
+
+#166
+my best friend had the chicken shawarma and she still raves about it being the best anywhere
+{FOOD#QUALITY, positive}
+
+#167
+what a tastly flaky treat
+{FOOD#QUALITY, negative}
+
+#168
+the staff are friendly and the decor was ethic and colorful
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#169
+go to open sesame
+{RESTAURANT#GENERAL, positive}
+
+#170
+holy hummus
+{FOOD#QUALITY, positive}
+
+#171
+– the food is here is incredible though the quality is inconsistent during lunch
+{FOOD#QUALITY, negative}
+
+#172
+dinners have always been excellent in terms of food quality
+{FOOD#QUALITY, positive}
+
+#173
+the open sesame combo plate is a bargain for the heap of food given
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}, {FOOD#PRICES, positive}
+
+#174
+the side of potatoes is to die for as is the labne yogurt dip
+{FOOD#QUALITY, positive}
+
+#175
+also they serve the best hummus in america with a drizzle of fragrant olive oil which i believe is the traditional way
+{FOOD#QUALITY, positive}
+
+#176
+the only drawback is the crowded seating and the slow service
+{SERVICE#GENERAL, negative}, {AMBIENCE#GENERAL, negative}
+
+#177
+there have been several occasions when weve just not gotten some side dishes weve ordered
+{FOOD#QUALITY, negative}
+
+#178
+however this place is a gem and i wont stop going back
+{RESTAURANT#GENERAL, positive}
+
+#179
+great beer
+{DRINKS#QUALITY, positive}
+
+#180
+– my first time to dine at this restaurant was with my son and it was absolutely horrible
+{RESTAURANT#GENERAL, negative}
+
+#181
+we waited over num minutes for our drinks and over num num hours for our food
+{SERVICE#GENERAL, negative}
+
+#182
+i swore never to return for a warm beer and mediocre meal
+{FOOD#QUALITY, negative}
+
+#183
+however one sunday afternoon my husband and i did go although with my loud protests and were pleasantly surprised
+{RESTAURANT#GENERAL, positive}
+
+#184
+the band was very good and the service was attentive
+{SERVICE#GENERAL, positive}
+
+#185
+we ordered a selection of the small plates and the shoe string onions goat cheese pizza grilled asparagus and fried brie with fruit were all very good
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#186
+it was like dining at a completely different restaurant
+{RESTAURANT#GENERAL, neutral}
+
+#187
+we have since returned and also had a great experience sampling more small plates and a variety of the beer cold and good
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}, {DRINKS#STYLE_OPTIONS, positive}
+
+#188
+we did have the same waiter the second time so maybe the service is spotty and our luck is good
+{SERVICE#GENERAL, negative}
+
+#189
+sunday afternoons there is a band playing and it is lots of fun
+{AMBIENCE#GENERAL, positive}
+
+#190
+seattles best winelist
+{RESTAURANT#GENERAL, neutral}
+
+#191
+– rays suprisingly has the citys best most diverse wine list
+{DRINKS#STYLE_OPTIONS, positive}
+
+#192
+the sommelier is fantastic downtoearth extremely knowlegable
+{SERVICE#GENERAL, positive}
+
+#193
+i would go back for the wine experience alone
+{RESTAURANT#GENERAL, neutral}
+
+#194
+nice job
+{RESTAURANT#GENERAL, positive}
+
+#195
+not the place it once was
+{RESTAURANT#MISCELLANEOUS, negative}
+
+#196
+– it is sad to see a place that was once the place to meet and eat for bfast or lunch now be the place that is a big dont bother
+{RESTAURANT#MISCELLANEOUS, negative}
+
+#197
+the food is not what it once was potions have seriously seen downsizing prices have gone up and the service is the worst i have experienced anywhere including mainland europe
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}, {RESTAURANT#PRICES, negative}, {FOOD#PRICES, negative}
+
+#198
+what may be interesting to most is the worst seviceattitude comes from the owners of this establishment
+{SERVICE#GENERAL, negative}
+
+#199
+this establishment really made a marked decline after and this is recurring story the airing of food televisions diners driveins and dives hosted by guy fieri in which schooner or later was subject of
+{SERVICE#GENERAL, negative}
+
+#200
+perhaps now scooner or later falls into the dive category
+{RESTAURANT#GENERAL, neutral}
+
+#201
+this is sad for what once was one of the best places you could ever eat
+{RESTAURANT#GENERAL, positive}
+
+#202
+i hope one day scooner or later returns to what it once was
+{RESTAURANT#GENERAL, negative}
+
+#203
+untill this happens my advice is to stay away
+{RESTAURANT#GENERAL, negative}
+
+#204
+open cool place with the best pizza and coffee
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}, {DRINKS#QUALITY, positive}
+
+#205
+– mioposto has a very creative delicious pizza menu
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#206
+the coffe is very good too
+{DRINKS#QUALITY, positive}
+
+#207
+great open and friendly ambience
+{AMBIENCE#GENERAL, positive}
+
+#208
+this place is charming and relaxing
+{AMBIENCE#GENERAL, positive}
+
+#209
+the servers behind the counter are always friendly and helpful
+{SERVICE#GENERAL, positive}
+
+#210
+its a great place to enjoy food and meet friends
+{FOOD#QUALITY, positive}
+
+#211
+old reliable
+{RESTAURANT#GENERAL, positive}
+
+#212
+– after num years in seattle rays rates as the place we always go back to
+{RESTAURANT#GENERAL, positive}
+
+#213
+great food spectacular location and friendly service keep us coming back year after year
+{RESTAURANT#GENERAL, positive}, {SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}, {LOCATION#GENERAL, positive}
+
+#214
+enjoyed the food
+{FOOD#QUALITY, positive}
+
+#215
+i liked it
+{RESTAURANT#GENERAL, positive}
+
+#216
+food was good and cheap
+{FOOD#QUALITY, positive}, {FOOD#PRICES, positive}
+
+#217
+i had the kafta plate and i enjoyed it
+{FOOD#QUALITY, positive}
+
+#218
+it was so much though that i could barely finish but i did since it was delicious
+{FOOD#QUALITY, positive}
+
+#219
+atmosphere was nice
+{AMBIENCE#GENERAL, positive}
+
+#220
+service was kind of slow our waitress took forever to give us our check even though it wasnt that busy
+{SERVICE#GENERAL, negative}
+
+#221
+still i would recommend this place
+{RESTAURANT#GENERAL, positive}
+
+#222
+wow
+{RESTAURANT#GENERAL, positive}
+
+#223
+– it cant get any better
+{RESTAURANT#GENERAL, negative}
+
+#224
+what else can you say nice people amazing food wow
+{RESTAURANT#GENERAL, positive}, {SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#225
+great food with an awesome atmosphere
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#226
+– eggs pancakes potatoes fresh fruit and yogurt everything they serve is delicious
+{FOOD#QUALITY, positive}
+
+#227
+the best place for a leisure sunday breakfast amidst yachts then take a stroll through the nearby farmers market
+{AMBIENCE#GENERAL, positive}
+
+#228
+great meal – the fish on the omikase platter was absolutely decadent there was none of the stringiness that sometimes accompanies fair sushi this fish was perfect
+{FOOD#QUALITY, positive}
+
+#229
+plus i am allergic to rice and the waitstaff was unbelievably accomodating didnt even bat an eye
+{SERVICE#GENERAL, positive}
+
+#230
+and the waiter suggested a perfect sake
+{SERVICE#GENERAL, positive}, {DRINKS#QUALITY, positive}
+
+#231
+absolutely fabulous
+{FOOD#QUALITY, positive}
+
+#232
+unbeatable sushi
+{FOOD#QUALITY, positive}
+
+#233
+two thumbs up
+{RESTAURANT#GENERAL, positive}
+
+#234
+this is right up there with places in tokyo as far as the freshness is concerned
+{FOOD#QUALITY, positive}
+
+#235
+melt in your mouth nigiri and sashmi and very tasty rolls too
+{FOOD#QUALITY, positive}
+
+#236
+be sure to try the oyster roll
+{FOOD#QUALITY, positive}
+
+#237
+splendid
+{RESTAURANT#GENERAL, positive}
+
+#238
+– how to describe the best sushi in nyc hmmmm delicious amazing fantastic suculent perfect nah all of the above
+{FOOD#QUALITY, positive}
+
+#239
+i cant saybenough good things about this restaurant and i cant wait for my next several visits
+{RESTAURANT#GENERAL, positive}
+
+#240
+the best chuwam mushi i have ever had
+{FOOD#QUALITY, positive}
+
+#241
+perfect on a cold day
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#242
+num with tip
+{SERVICE#GENERAL, negative}
+
+#243
+perfection
+{RESTAURANT#GENERAL, positive}
+
+#244
+good sushi high price
+{FOOD#QUALITY, positive}, {FOOD#PRICES, positive}
+
+#245
+one of the best sushi place in town
+{RESTAURANT#GENERAL, positive}
+
+#246
+the house special roll is really good
+{FOOD#QUALITY, positive}
+
+#247
+on weekends you might have to wait for couple hours
+{SERVICE#GENERAL, negative}, {RESTAURANT#MISCELLANEOUS, negative}
+
+#248
+however they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone
+{SERVICE#GENERAL, negative}
+
+#249
+a cozy spot for num
+{AMBIENCE#GENERAL, positive}
+
+#250
+– i cant believe murphys has been around for over num years amazing
+{RESTAURANT#GENERAL, positive}
+
+#251
+thats a huge compliment especially in the fickled restaurant business enough already
+{RESTAURANT#GENERAL, positive}
+
+#252
+brunch at murphys is to die for my specialty egg white omelet the food is always freshly prepared
+{FOOD#QUALITY, positive}
+
+#253
+its the perfect spot for a romantic date for num or a secret rendezvous
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#254
+save room for scrumptious desserts
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#255
+the restaurant offers an extensive wine list and an ambiance you wont forget
+{DRINKS#STYLE_OPTIONS, positive}, {AMBIENCE#GENERAL, positive}
+
+#256
+i guarantee you wont be disappointed theres also valet parking
+{SERVICE#GENERAL, positive}, {RESTAURANT#MISCELLANEOUS, positive}
+
+#257
+addicting
+{RESTAURANT#GENERAL, positive}
+
+#258
+– best mexican place for lunch in the financial district
+{RESTAURANT#GENERAL, positive}
+
+#259
+love the enchiladas and chicken soup and be sure to check out their specials
+{FOOD#QUALITY, positive}
+
+#260
+the cooks have been at the restaurant for years and cook family recipes
+{FOOD#QUALITY, positive}
+
+#261
+can get busy on fridays for a table but once seated the service is so efficient you can be in and out of there quickly
+{SERVICE#GENERAL, positive}
+
+#262
+i went there with a friend from out of town and we were both very impressed
+{RESTAURANT#GENERAL, positive}
+
+#263
+the sushi was excellent and the wait staff was quick
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#264
+the price was right too
+{RESTAURANT#PRICES, positive}
+
+#265
+the atmosphere was just okay
+{AMBIENCE#GENERAL, negative}
+
+#266
+space was limited but the food made up for it
+{FOOD#QUALITY, positive}
+
+#267
+id go back there in a heartbeat
+{RESTAURANT#GENERAL, positive}
+
+#268
+well i guess its hard to be seated when one is invisible to the staff
+{SERVICE#GENERAL, negative}
+
+#269
+we stood there for num minutes while employees walked back and forth ignoring us
+{SERVICE#GENERAL, negative}
+
+#270
+finally my wife stood face to face in front of one of the staff and she asked are you waiting for a table
+{SERVICE#GENERAL, negative}
+
+#271
+once seated it took about num minutes to finally get the meal
+{SERVICE#GENERAL, negative}
+
+#272
+the prior reviews said kid friendly give me a break with two young children that is light years
+{SERVICE#GENERAL, negative}
+
+#273
+the caesar salad i ordered had so much lemon i couldnt eat it
+{FOOD#STYLE_OPTIONS, negative}
+
+#274
+it was decent but nothing exceptional
+{RESTAURANT#GENERAL, neutral}
+
+#275
+great food better margaritas
+{FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#276
+– this is one of my top lunch spots huge portions fast service and amazing margaritas
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}, {DRINKS#QUALITY, positive}
+
+#277
+it gets really busy so get there on the early side so you can grab a seat if you do have to wait its not bad because the service is quick
+{SERVICE#GENERAL, positive}
+
+#278
+check out the art on the walls very colorful
+{AMBIENCE#GENERAL, positive}
+
+#279
+i love this place
+{RESTAURANT#GENERAL, positive}
+
+#280
+– i have been eating at this place for over num years now and i have never had one bad meal
+{FOOD#QUALITY, positive}
+
+#281
+i highly recommend this place to all that want to try indain food for the first time
+{FOOD#QUALITY, positive}
+
+#282
+the lunch menu is an awesome deal
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}, {FOOD#PRICES, positive}
+
+#283
+plenty of foodtrust me
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#284
+fresh ingrediants and super tasty
+{FOOD#QUALITY, positive}
+
+#285
+the place is the next best thing to my moms cooking
+{FOOD#QUALITY, positive}
+
+#286
+best food phenominal service
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#287
+for the finicky sushi eater and those who have sampled the best nyc has to offer the fish is the freshest and the service is superb
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#288
+not only can the selection be innovative but theres a nice balance of traditional sushi as well
+{FOOD#STYLE_OPTIONS, positive}
+
+#289
+the nicest waiters in town
+{SERVICE#GENERAL, positive}
+
+#290
+way overrated
+{RESTAURANT#GENERAL, negative}
+
+#291
+– this place is unbelievably overrated
+{RESTAURANT#GENERAL, negative}
+
+#292
+if i want to stand in line on sunday for an hour to get average brunch food then i would put murphys at the top of the list
+{FOOD#QUALITY, positive}
+
+#293
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}, {FOOD#STYLE_OPTIONS, negative}
+
+#294
+num
+{RESTAURANT#GENERAL, positive}
+
+#295
+your a sushi fan you love expertly cut fish great sake a killer soho location and of course salmon tuna fluke yellow tail cod mackeral jellyfish sea urchin shrimp lobster sea bream trout milk fish blue fin tuna eel crab sardine monk fish roe scallop oysters and a varity of toro
+{FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#296
+there is only one place on the east coast that has it all plus a lot more
+{RESTAURANT#GENERAL, positive}
+
+#297
+bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world blue ribbon sushi
+{RESTAURANT#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#298
+cut to the chase this is amazing
+{RESTAURANT#GENERAL, positive}
+
+#299
+its unpretentious and underground
+{AMBIENCE#GENERAL, positive}
+
+#300
+its fresh welcoming delicious and relaxing
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#301
+hands down the best tuna i have ever had
+{FOOD#QUALITY, positive}
+
+#302
+blue ribbon lives up to its fantastic reputation
+{RESTAURANT#GENERAL, neutral}
+
+#303
+i went here on a recommendation and will surely return time and time again
+{RESTAURANT#GENERAL, positive}
+
+#304
+what a find
+{RESTAURANT#GENERAL, positive}
+
+#305
+well worth it
+{RESTAURANT#GENERAL, positive}
+
+#306
+great value sushi with high quality nice setting
+{FOOD#QUALITY, positive}, {RESTAURANT#PRICES, positive}, {AMBIENCE#GENERAL, positive}, {FOOD#PRICES, positive}
+
+#307
+good for late night dining last minute planning without reservations
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#308
+try the chefs choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty
+{FOOD#QUALITY, positive}
+
+#309
+poor customer servicepoor pizza
+{SERVICE#GENERAL, negative}
+
+#310
+– as with most restaurants in seattle miopostos service was bad and the food was overpriced
+{SERVICE#GENERAL, negative}, {FOOD#PRICES, negative}
+
+#311
+i know many people have their favorite types of pizza and pizza places but miopostos pizza lacks quality and good taste
+{FOOD#QUALITY, positive}
+
+#312
+to be honest ive had better frozen pizza
+{FOOD#QUALITY, positive}
+
+#313
+the only positive thing about mioposto is the nice location
+{LOCATION#GENERAL, positive}
+
+#314
+love it every time
+{RESTAURANT#GENERAL, positive}
+
+#315
+i was frankly shocked when i read the bad reviews this place is fantastic it has not let us down in any way and weve eaten here more than num times
+{RESTAURANT#GENERAL, positive}
+
+#316
+the food is fantastic and the waiting staff has been perfect every single time weve been there
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#317
+the only problem would be the wait but we usually just have a drink in the front while waiting
+{SERVICE#GENERAL, negative}
+
+#318
+never had one single problem there
+{RESTAURANT#GENERAL, positive}
+
+#319
+seafood plus
+{FOOD#QUALITY, positive}
+
+#320
+– this was great dining experience
+{RESTAURANT#GENERAL, positive}
+
+#321
+if youre going to see danny gans or just staying at the mirage dont miss this one
+{RESTAURANT#GENERAL, positive}
+
+#322
+the appetizer of oysters lobster crab small size made a perfect entre for my wife
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#323
+seabass on lobster risotto was the best
+{FOOD#QUALITY, positive}
+
+#324
+caesar salad was superb
+{FOOD#QUALITY, positive}
+
+#325
+great bottle of wine
+{DRINKS#QUALITY, positive}
+
+#326
+leave room for dessert
+{RESTAURANT#GENERAL, neutral}
+
+#327
+completely over rated
+{RESTAURANT#GENERAL, negative}
+
+#328
+the food was ok but the service was so poor that the food was cold buy the time everyone in my party was served
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}
+
+#329
+even then the order was not correct and we were still waiting for a couple items
+{SERVICE#GENERAL, negative}
+
+#330
+we had a very hard time getting the waitress attention and finally had to get up and go inside to speak to a manager
+{SERVICE#GENERAL, negative}
+
+#331
+as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token num discount on our bill
+{SERVICE#GENERAL, negative}
+
+#332
+when the bill came he only took the discount off the food and not the drinks
+{SERVICE#GENERAL, negative}
+
+#333
+it was clear he didnt really care
+{SERVICE#GENERAL, negative}
+
+#334
+avoid the place
+{RESTAURANT#GENERAL, negative}
+
+#335
+– save yourself the waste of time do not visit
+{RESTAURANT#GENERAL, negative}
+
+#336
+when i got there i sat up stairs where the atmosphere was cozy the service was horrible
+{SERVICE#GENERAL, negative}, {AMBIENCE#GENERAL, positive}
+
+#337
+i waited for num minutes for service ordered a beer was never served again
+{SERVICE#GENERAL, negative}
+
+#338
+after sitting there with my empty glass for over num minutes i left
+{RESTAURANT#GENERAL, negative}
+
+#339
+i went home looked them up online again where i discovered there is a link for a give away that doesnt work so emailed the restaurant about the non existent service deceptive link
+{SERVICE#GENERAL, negative}
+
+#340
+i never heard back from anyone more than a month ago
+{SERVICE#GENERAL, negative}
+
+#341
+after sitting at the bar for over num minutes the bar keep had made only num drinks kept telling us shed be right with us
+{SERVICE#GENERAL, negative}
+
+#342
+we left without ever getting service
+{SERVICE#GENERAL, negative}
+
+#343
+as of writing this i just tried their give away a link again it still doesnt work
+{RESTAURANT#GENERAL, neutral}
+
+#344
+best crab cakes in town
+{FOOD#QUALITY, positive}
+
+#345
+– thats a big statement considering ive been pulling crab traps and making the cakes myself since i was about seven but something about these little devils gets better every time
+{FOOD#QUALITY, positive}
+
+#346
+if you can come to this place by boat and make it a whole evening
+{RESTAURANT#GENERAL, positive}
+
+#347
+great seasonal fish and seafood with a classy waterfront setting
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#348
+always a winner
+{RESTAURANT#GENERAL, positive}
+
+#349
+great pizza poor service
+{SERVICE#GENERAL, negative}
+
+#350
+– love their pizza especially the mushroom pizza
+{FOOD#QUALITY, positive}
+
+#351
+also love their caeser salad
+{FOOD#QUALITY, positive}
+
+#352
+prefer to order it and pick it up though because i dont like the servers one young woman in particular
+{SERVICE#GENERAL, negative}
+
+#353
+she doesnt make you feel welcome and treats you like an annoyance
+{SERVICE#GENERAL, negative}
+
+#354
+but she is very friendly with certain people making it even more annoying
+{SERVICE#GENERAL, negative}
+
+#355
+management should really take notice and train their waitstaff and teach them some proper manners
+{SERVICE#GENERAL, negative}
+
+#356
+many people talk about the great pizza and poor service so it cant just be the rantings of a few dissatisfied customers
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, positive}
+
+#357
+its a great little place with tons of potential to be a neighborhood joint if the service werent so impersonal and corporatelike
+{SERVICE#GENERAL, negative}
+
+#358
+great breakfast
+{FOOD#QUALITY, positive}
+
+#359
+– this place is famous for their breakfast
+{FOOD#QUALITY, positive}, {RESTAURANT#MISCELLANEOUS, positive}
+
+#360
+they have been featured on the food network and they deserve it
+{RESTAURANT#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#361
+the food is great and they make a mean bloody mary
+{FOOD#QUALITY, positive}
+
+#362
+i love breakfast here
+{FOOD#QUALITY, positive}
+
+#363
+their crab eggs benedict is addicting
+{FOOD#QUALITY, positive}
+
+#364
+all their menu items are a hit and they serve mimosas
+{FOOD#QUALITY, positive}
+
+#365
+doesnt get any better than that
+{RESTAURANT#GENERAL, negative}
+
+#366
+best chinese food i have tasted in a long time
+{FOOD#QUALITY, positive}
+
+#367
+you can easily hear him though so it was a pleasant sound and not overbearing
+{AMBIENCE#GENERAL, positive}
+
+#368
+the ambiance of the restaurant was nice and good for fine dinning
+{FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}
+
+#369
+not too fine thought that you feel uncomfortable and have to dress up
+{RESTAURANT#GENERAL, neutral}
+
+#370
+the staff was very nice and courteous and obviously chinese
+{SERVICE#GENERAL, positive}
+
+#371
+first off the food came fast and all together i like that i hate the pretentiousness of things coming in one after the other
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#372
+so about the prawns they were fresh and had a slight crispiness about the batter soooo good the walnuts were cut in smaller pieces and very crunchy and tasty
+{FOOD#QUALITY, positive}
+
+#373
+yummy
+{FOOD#QUALITY, positive}
+
+#374
+best honey walnyt prawns that we have every tasted
+{FOOD#QUALITY, positive}
+
+#375
+the brocollis were so fresh and tasty
+{FOOD#QUALITY, positive}
+
+#376
+i would normally not finish the brocolli when i order these kinds of food but for the first time every piece was as eventful as the first one the scallops and prawns was so fresh and nicely cooked
+{FOOD#QUALITY, positive}
+
+#377
+not chewy at all
+{FOOD#QUALITY, negative}
+
+#378
+for desert we had the mango ginger creme brulee oh la la yummy
+{FOOD#QUALITY, positive}
+
+#379
+melt in your mouth
+{FOOD#QUALITY, negative}
+
+#380
+we are for sure coming back to this restaurant
+{RESTAURANT#GENERAL, positive}
+
+#381
+it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel but they are definitely one you dont want to miss esp if your in downtown san jose
+{RESTAURANT#PRICES, negative}
+
+#382
+chintzy portions
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#383
+– the sushi here is perfectly good but for num a piece either the slices of fish should be larger or there should be no pretense that this is a moderately priced restaurant even for nyc
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, negative}, {FOOD#PRICES, negative}
+
+#384
+we easily spent more than num per person not including alcohol and were still hungry
+{RESTAURANT#PRICES, negative}, {FOOD#PRICES, negative}
+
+#385
+im astonished that this restaurant is categorized as rather than
+{RESTAURANT#GENERAL, negative}
+
+#386
+terrible service food ok pricey
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}, {FOOD#PRICES, negative}
+
+#387
+we put out name down and although there were open tables we were told that itd be a num minute wait
+{SERVICE#GENERAL, negative}
+
+#388
+we went back to the restaurant and low and behold we were seated at one of the tables that was available num minutes ago
+{SERVICE#GENERAL, negative}
+
+#389
+none that i can think of
+{RESTAURANT#GENERAL, negative}
+
+#390
+we put in our order and although we ordered num appetizers the food didnt arrive until num minutes laterwith our main course
+{SERVICE#GENERAL, negative}
+
+#391
+um so now what are appetizers for
+{FOOD#QUALITY, positive}
+
+#392
+oh i forgot to mention that they dont have bread service
+{SERVICE#GENERAL, negative}
+
+#393
+my wife also ordered a teapot of hot water she had a sore throat and i guess that since it was only water it wasnt a priority for them to actually bring it
+{SERVICE#GENERAL, negative}
+
+#394
+in other words if they arent making off of you then you dont rate high on their service scale
+{SERVICE#GENERAL, negative}
+
+#395
+food wise its ok but a bit pricey for what you get considering the restaurant isnt a fancy place
+{FOOD#QUALITY, positive}, {RESTAURANT#PRICES, negative}, {AMBIENCE#GENERAL, neutral}
+
+#396
+if i needed to name some they would include the location to the beach or golden gate park
+{LOCATION#GENERAL, positive}
+
+#397
+its great if you spent the day there and didnt want to drive to eat
+{RESTAURANT#GENERAL, positive}
+
+#398
+parking is reasonably good they have their own lot and you can park in the park nearby
+{AMBIENCE#GENERAL, positive}, {LOCATION#GENERAL, positive}
+
+#399
+another plus is the open feel of the restaurant with glass walls on all sides
+{AMBIENCE#GENERAL, positive}
+
+#400
+always good
+{RESTAURANT#GENERAL, positive}
+
+#401
+num pm on a sat before a broadway play and we were quickly seated and served
+{SERVICE#GENERAL, positive}
+
+#402
+amazing spanish mackeral special appetizer and perfect box sushi that eel with avodcao um um um
+{FOOD#QUALITY, positive}
+
+#403
+as usual the omikase didnt disappoint in freshness although it scored low on creativity and selection
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#404
+their specialty rolls are impressive though i cant remember what we had
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, negative}
+
+#405
+great selection of sakes
+{FOOD#STYLE_OPTIONS, positive}
+
+#406
+green tea creme brulee gets better each time i have it
+{FOOD#QUALITY, positive}
+
+#407
+it isnt the cheapest sushi but has been worth it every time
+{FOOD#QUALITY, positive}, {FOOD#PRICES, negative}
+
+#408
+very poor customer service
+{SERVICE#GENERAL, negative}
+
+#409
+– schooner or laters charming location along the marina in long beach and average food does not unfortunately compensate for its very poor customer service
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, positive}, {LOCATION#GENERAL, positive}
+
+#410
+while this diner had reasonably good food the restaurant staff seemed completely indifferent to our presence and this attitude was reflected in the lack of service
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, positive}
+
+#411
+as part of a small party of four our food was dropped off without comment
+{SERVICE#GENERAL, negative}
+
+#412
+any further needs we may have had could not have been met since no one stopped by the table
+{SERVICE#GENERAL, negative}
+
+#413
+when we finally were able to flag someone down it was someone entirely different from the person who had dropped off the food who was also not the same person who had taken our order
+{SERVICE#GENERAL, negative}
+
+#414
+after one member of our party had been bumped repeatedly by a waitress a polite request that he not be bumped sent the waitress into an abusive rant
+{SERVICE#GENERAL, negative}
+
+#415
+a brief conversation with the manager at the end of the meal was the greatest disappointmentto say we had been blown off would be an understatement
+{SERVICE#GENERAL, negative}
+
+#416
+the manager continually interrupted with is there anything else i can do for you a strange comment because she had hardly listened let alone responded to our expression of disappointment at our experience
+{SERVICE#GENERAL, negative}
+
+#417
+she promised to speak to the waitress who had flown off in a rage but we could hardly take her promise seriously seeing as she hadnt bothered to get the waitresses name
+{SERVICE#GENERAL, negative}
+
+#418
+in short schooner or later couldnt have cared less about our being at their establishment
+{SERVICE#GENERAL, negative}
+
+#419
+you are with a hot date and heshe has an urge for sushithen this might be the place
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#420
+the fish was fresh though it was cut very thin
+{FOOD#QUALITY, negative}, {FOOD#STYLE_OPTIONS, negative}
+
+#421
+great service
+{SERVICE#GENERAL, positive}
+
+#422
+good sake selection
+{DRINKS#STYLE_OPTIONS, positive}
+
+#423
+dungeness crabs here
+{FOOD#QUALITY, positive}
+
+#424
+– rays is the place to go for high quality seafood dinners
+{FOOD#QUALITY, positive}
+
+#425
+and they give good quantity for the price
+{FOOD#STYLE_OPTIONS, positive}, {FOOD#PRICES, positive}
+
+#426
+we were only in seattle for one night and im so glad we picked rays for dinner
+{FOOD#QUALITY, positive}
+
+#427
+i love dungeness crabs and at rays you can get them served in about num different ways
+{FOOD#STYLE_OPTIONS, positive}
+
+#428
+we shared the family platter and i especially enjoyed the black cod in sake kasu
+{FOOD#QUALITY, positive}
+
+#429
+i ended the meal with the unusual dessert of a port and chocolate tastingyummy
+{FOOD#QUALITY, positive}
+
+#430
+and the service was simply spendid quite a delight
+{SERVICE#GENERAL, positive}
+
+#431
+great breakfast
+{FOOD#QUALITY, positive}
+
+#432
+– great drinks corn beef hash coffee b fast burritos gluten free menu
+{FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#433
+the service is fantastic at this fun place
+{SERVICE#GENERAL, positive}
+
+#434
+if there is a line very day of the week for the entire time a place is open you know it is great
+{RESTAURANT#MISCELLANEOUS, positive}
+
+#435
+this is the case at this gem
+{RESTAURANT#GENERAL, positive}
+
+#436
+best neighborhood standby
+{RESTAURANT#GENERAL, positive}
+
+#437
+you cant go wrong here
+{RESTAURANT#GENERAL, positive}
+
+#438
+in grammercyunion squareeast village this is my neighbors and my favorite spot
+{RESTAURANT#GENERAL, positive}
+
+#439
+the music is great no night better or worse the bar tenders are generous with the pouring and the lighthearted atmosphere will lifts you spirits
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#440
+seriously you cant go wrong if it is unpretentious local fun you seek
+{AMBIENCE#GENERAL, positive}
+
+#441
+oh and the cheese fries are awesome
+{FOOD#QUALITY, positive}
+
+#442
+good food great service average prices for the strip
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {RESTAURANT#PRICES, positive}
+
+#443
+– i decided to eat at stack because of their price fixed preshow dinner
+{FOOD#PRICES, negative}
+
+#444
+when i walked in i was taken aback by their incredible wood decor
+{AMBIENCE#GENERAL, positive}
+
+#445
+the music playing was very hip num something pop music but the subwoofer to the sound system was located under my seat which became annoying midway through dinner
+{AMBIENCE#GENERAL, negative}
+
+#446
+i got the shellfish and shrimp appetizer and it was alright
+{FOOD#QUALITY, neutral}
+
+#447
+it wasnt the freshest seafood ever but the taste and presentation was ok
+{FOOD#QUALITY, negative}
+
+#448
+i picked the asparagus which turned out to be incredible and perfectly prepared
+{FOOD#QUALITY, positive}
+
+#449
+the num oz steak came next and it tasted great at least initially
+{FOOD#QUALITY, positive}
+
+#450
+the steak was done to my exact liking medium rare and was nice and juicy
+{FOOD#QUALITY, positive}
+
+#451
+its served with either a peppercorn sauce or red wine reduction though both were indistinguishable in taste
+{FOOD#STYLE_OPTIONS, negative}
+
+#452
+though one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak
+{FOOD#QUALITY, negative}
+
+#453
+my mouth felt very dry afterwards and i had that signature msg taste lingering in my throat after i left the restaurant
+{FOOD#QUALITY, negative}
+
+#454
+they came in their own nifty take out box and with some homemade frosting very light and nottoosweet
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#455
+the desert was the perfect ending to an almost perfect dinner
+{FOOD#QUALITY, positive}
+
+#456
+the dinner only took us about an hour and the prices were alright for the strip almost num pp after tax and tip about average
+{SERVICE#GENERAL, neutral}, {RESTAURANT#PRICES, positive}
+
+#457
+but the servers were extremely attentive and very friendly
+{SERVICE#GENERAL, positive}
+
+#458
+overall i would go back and eat at the restaurant again
+{RESTAURANT#GENERAL, positive}
+
+#459
+just remember to dress a little urbanchic so you dont look too far out of place
+{RESTAURANT#GENERAL, neutral}
+
+#460
+good sake good food – i honestly dont know much about japanese food at all
+{FOOD#QUALITY, positive}
+
+#461
+server made several sake suggestions which were very good
+{SERVICE#GENERAL, positive}, {DRINKS#QUALITY, positive}
+
+#462
+had many dishes but the best was the lobster num ways
+{FOOD#QUALITY, positive}
+
+#463
+very good
+{RESTAURANT#GENERAL, positive}
+
+#464
+overpriced
+{FOOD#PRICES, negative}
+
+#465
+waited num minutes for a table for num which was ok for such a big crowd
+{RESTAURANT#MISCELLANEOUS, negative}
+
+#466
+the waiter was a bit unfriendly and the feel of the restaurant was crowded
+{SERVICE#GENERAL, negative}, {AMBIENCE#GENERAL, negative}
+
+#467
+also there was only one bathroom stall probably need more for such big crowds
+{RESTAURANT#MISCELLANEOUS, negative}, {AMBIENCE#GENERAL, negative}
+
+#468
+most importantly we were so excited about the food after seeing the very creative menu
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#469
+at best the food was good and definately overpriced
+{FOOD#QUALITY, negative}, {FOOD#PRICES, negative}
+
+#470
+for the amount of food we got the prices should have been lower
+{FOOD#QUALITY, positive}, {FOOD#PRICES, negative}
+
+#471
+not sure if i would go back
+{RESTAURANT#GENERAL, negative}
+
+#472
+my favortie pizza joint in seattle
+{RESTAURANT#GENERAL, positive}
+
+#473
+– this is my must bring out of town guests to restaurant and they always enjoy and rave about it
+{RESTAURANT#GENERAL, positive}, {RESTAURANT#MISCELLANEOUS, positive}
+
+#474
+in fact many want to return a second time during their visit
+{RESTAURANT#GENERAL, positive}
+
+#475
+the pizza is delicious and the salads are fantastic
+{FOOD#QUALITY, positive}
+
+#476
+ive always found the wait staff and if you sit at the bar the cooks very friendly
+{SERVICE#GENERAL, positive}
+
+#477
+they arent the most talkative but everytime ive been there they have been very busy which probably accounts for the lack of conversation
+{SERVICE#GENERAL, negative}
+
+#478
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant
+{AMBIENCE#GENERAL, positive}
+
+#479
+its just the right size for the menu
+{FOOD#STYLE_OPTIONS, positive}
+
+#480
+excellent
+{RESTAURANT#GENERAL, positive}
+
+#481
+– my husband and i love eating at mioposto café
+{RESTAURANT#GENERAL, positive}
+
+#482
+were cant say enough about their delicious gourmet pizzas
+{FOOD#QUALITY, positive}
+
+#483
+you wont be disappointed by their menu
+{FOOD#QUALITY, positive}
+
+#484
+the pizzas are thin crust and the menu offers very creative combinations and toppings
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#485
+you never feel icky and stuffed after you eat there
+{FOOD#QUALITY, negative}
+
+#486
+the pizzas are light and scrumptious
+{FOOD#QUALITY, positive}
+
+#487
+try the pizza ensalata
+{FOOD#QUALITY, positive}
+
+#488
+absolutely delicious
+{FOOD#QUALITY, positive}
+
+#489
+the pizzas are not huge and the crust is thin…keep that in mind when youre ordering
+{FOOD#STYLE_OPTIONS, negative}
+
+#490
+worth the wait
+{RESTAURANT#GENERAL, negative}
+
+#491
+– had to wait thirty minutes to get in the door on a tuesday morning but it was so worth it
+{RESTAURANT#GENERAL, positive}
+
+#492
+the food is sinful
+{FOOD#QUALITY, negative}
+
+#493
+the staff was really friendly
+{SERVICE#GENERAL, positive}
+
+#494
+the atmosphere was great
+{AMBIENCE#GENERAL, positive}
+
+#495
+the specialty here is decadent pancakes but ive been back now four times and ive been wowed every time
+{FOOD#QUALITY, positive}
+
+#496
+nothing on the menu is less than amazing
+{FOOD#QUALITY, positive}
+
+#497
+go with some friends wait the half hour or so with a cup of joe and enjoy more than your average breakfast
+{FOOD#QUALITY, positive}
+
+#498
+good eats
+{FOOD#QUALITY, positive}
+
+#499
+i dont know why anyone would want to write a great review about this place
+{RESTAURANT#GENERAL, positive}
+
+#500
+i have been to this place folks and it is bad
+{RESTAURANT#GENERAL, negative}
+
+#501
+maybe it is good for that one night once in a blue moon when the chefs decide to use fish thats halfway decent
+{FOOD#QUALITY, negative}
+
+#502
+i have been here spent tons of money on a chef special dinner and it was a major dissappointment
+{FOOD#QUALITY, negative}
+
+#503
+fancy pieces of exotic fish on a num dollar plate and not one was eatable
+{FOOD#STYLE_OPTIONS, negative}, {FOOD#PRICES, negative}
+
+#504
+donot go
+{RESTAURANT#GENERAL, negative}
+
+#505
+delicious
+{FOOD#QUALITY, positive}
+
+#506
+– the atmosphere is great for any special occasion you might want to celebrate
+{RESTAURANT#MISCELLANEOUS, positive}, {AMBIENCE#GENERAL, positive}
+
+#507
+the best dish are the honwy walnut prawns just outstanding
+{FOOD#QUALITY, positive}
+
+#508
+the service is really attentive and charming
+{SERVICE#GENERAL, positive}
+
+#509
+we waited for an hour to be seated
+{SERVICE#GENERAL, negative}
+
+#510
+the service was excellent the coffee was good even by starbucks standards and the food was outstanding
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {DRINKS#QUALITY, positive}
+
+#511
+it was worth the wait
+{RESTAURANT#GENERAL, positive}
+
+#512
+plan on waiting num minutes
+{SERVICE#GENERAL, negative}
+
+#513
+will definitely be back
+{RESTAURANT#GENERAL, positive}
+
+#514
+delicious
+{FOOD#QUALITY, positive}
+
+#515
+– i recently had the pleasure of dining as this delightful restaurant on num nd street and wow what a great evening we had
+{RESTAURANT#GENERAL, positive}
+
+#516
+the food is fantastic authentic delicious and very very affordable
+{FOOD#QUALITY, positive}, {FOOD#PRICES, positive}
+
+#517
+the decor was beautiful and unique
+{AMBIENCE#GENERAL, positive}
+
+#518
+there was a really nice vibe about the placegood music atmosphere and happy looking people
+{AMBIENCE#GENERAL, positive}
+
+#519
+our server was very professional and friendly
+{SERVICE#GENERAL, positive}
+
+#520
+to the owners of open sesamebravoi cant wait to come back to dine at your restaurant
+{RESTAURANT#GENERAL, positive}
+
+#521
+delectable
+{FOOD#QUALITY, positive}
+
+#522
+its a tiny place so if you get there before num pm on a weekend thurssun you will find it easier to get a table or a seat at the sushi bar
+{RESTAURANT#MISCELLANEOUS, negative}
+
+#523
+once youre inside the real experience begins
+{AMBIENCE#GENERAL, positive}
+
+#524
+everything and i mean everything on the menu is delectable
+{FOOD#QUALITY, positive}
+
+#525
+the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa
+{SERVICE#GENERAL, positive}
+
+#526
+the sushi is as fresh as it comesyoud think ocean was in their backyard no joke
+{FOOD#QUALITY, positive}
+
+#527
+if youre interested in good tasting without the fish taste or smell large portions and creative sushi dishes this is your place
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#528
+big thick pepperoni
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#529
+– the pepperonis cut real thickyum
+{FOOD#QUALITY, positive}
+
+#530
+the pizza itself is not exactly the best ive had ever but still pretty good
+{FOOD#QUALITY, positive}
+
+#531
+i probably wouldnt go back though cuz i dont know if its worth it
+{RESTAURANT#GENERAL, negative}
+
+#532
+maybe ill go back once more many years from now when ive forgotten i went there already
+{RESTAURANT#GENERAL, positive}
+
+#533
+sit in the balcony
+{AMBIENCE#GENERAL, positive}
+
+#534
+– not bad
+{RESTAURANT#GENERAL, neutral}
+
+#535
+food was good and appetizing
+{FOOD#QUALITY, positive}
+
+#536
+portions was just enough for me but may not be for a big eater
+{FOOD#STYLE_OPTIONS, negative}
+
+#537
+fair menu selection
+{FOOD#STYLE_OPTIONS, positive}
+
+#538
+the appetizer was interesting but the creme brulee was very savory and delicious
+{FOOD#QUALITY, positive}
+
+#539
+indoor ambience was modern
+{AMBIENCE#GENERAL, positive}
+
+#540
+if its nice outside request for a table in the balcony
+{AMBIENCE#GENERAL, positive}
+
+#541
+its a great place to people watch
+{RESTAURANT#GENERAL, positive}
+
+#542
+although the service could be improved considering the money you put in
+{SERVICE#GENERAL, negative}, {RESTAURANT#PRICES, negative}
+
+#543
+our drinks kept coming but our server came by a couple times
+{SERVICE#GENERAL, negative}
+
+#544
+should checkup on us more frequently dont you think
+{RESTAURANT#GENERAL, positive}
+
+#545
+late night dinning with exeptional food
+{FOOD#QUALITY, positive}
+
+#546
+we were seated right away the table was private and nice
+{SERVICE#GENERAL, positive}, {AMBIENCE#GENERAL, positive}
+
+#547
+the service was exceptional sometime there was a feeling that we were served by the army of friendly waiters
+{SERVICE#GENERAL, positive}
+
+#548
+the food was very good filet mignon was probably the best ive ever try
+{FOOD#QUALITY, positive}
+
+#549
+the portions are big though so do not order too much
+{FOOD#STYLE_OPTIONS, positive}
+
+#550
+groovy music made the dinner casual
+{AMBIENCE#GENERAL, positive}
+
+#551
+the most pleasant surprise was the check that did not exceed my expectations as it always happens in most of the places
+{SERVICE#GENERAL, positive}
+
+#552
+i have a but here there was a bathroom attendant in the restroom which was odd
+{SERVICE#GENERAL, negative}
+
+#553
+the bathroom itself is very small with two toilets and only one sink the girl was staying totally on the way hanging out paper towels from the dispenser
+{SERVICE#GENERAL, negative}, {AMBIENCE#GENERAL, negative}
+
+#554
+i felt ackward and next time went to the casino bathroom
+{RESTAURANT#GENERAL, negative}
+
+#555
+this place rocks
+{RESTAURANT#GENERAL, positive}
+
+#556
+– mercedes restaurant is so tasty the service is undeniably awesome
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#557
+the chips and salsa are so yummy and the prices are fabulous
+{FOOD#QUALITY, positive}, {FOOD#PRICES, positive}
+
+#558
+the atmosphere is aspiring and the decor is festive and amazing
+{AMBIENCE#GENERAL, positive}
+
+#559
+the catering is out of this world and raouls chicken vegetable soup rocks my world
+{FOOD#QUALITY, positive}
+
+#560
+drinks are suberb and i feel like i am in a third world country when i walk in the door
+{DRINKS#QUALITY, positive}
+
+#561
+insultingly overpriced
+{FOOD#PRICES, negative}
+
+#562
+mediocre servicequality
+{SERVICE#GENERAL, negative}
+
+#563
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there but peel back the layers and you have an overpriced ihop with a high brow menu
+{AMBIENCE#GENERAL, positive}, {FOOD#PRICES, positive}
+
+#564
+to start off approximately num oz of orange juice will cost you num
+{FOOD#PRICES, negative}
+
+#565
+they serve it in a tall skinny hourglass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket
+{FOOD#STYLE_OPTIONS, negative}
+
+#566
+i should have just asked for the check when i saw that but their menu was so unique that i continued
+{FOOD#STYLE_OPTIONS, positive}
+
+#567
+the pancakes were certainly inventive but num for num num pancakes one of them was more like num in the pancake flight sample of num different pancakes is well overpriced
+{FOOD#STYLE_OPTIONS, negative}, {FOOD#PRICES, negative}
+
+#568
+the pancakes should be larger at least num to justify the expense even with the unique offerings
+{FOOD#STYLE_OPTIONS, negative}, {FOOD#PRICES, negative}
+
+#569
+on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking and would have had to send them back again if i hadnt rejected the meal all together
+{SERVICE#GENERAL, negative}, {FOOD#QUALITY, negative}
+
+#570
+i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue
+{SERVICE#GENERAL, negative}
+
+#571
+to their credit they removed the dish from the check but no manager stopped by to ask what the problem was
+{SERVICE#GENERAL, negative}
+
+#572
+in the end our check came to num for num small pancakes a breakfast burrito an orange juice and an iced tea i had water
+{FOOD#PRICES, negative}
+
+#573
+much more than just a great view
+{LOCATION#GENERAL, positive}
+
+#574
+– i am exceedingly pleased to report that my dinner at rays boathouse last friday completely exceeded my expectations
+{RESTAURANT#GENERAL, positive}
+
+#575
+rays is something of a seattle institution but given its gorgeous sound views i had suspected that the accolades were more due to the scenery than to the food and service
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}, {AMBIENCE#GENERAL, positive}, {LOCATION#GENERAL, positive}
+
+#576
+imagine my happy surprise upon finding that the views are only the thirdbest thing about rays
+{LOCATION#GENERAL, positive}
+
+#577
+to start things off our lovely server brooke was quickly on hand to take my drink order
+{SERVICE#GENERAL, positive}
+
+#578
+my party of two was feeling particularly ambitious and we splurged on the shilshole samplera beautiful assortment of enormous white gulf prawns smoked albacore tuna rays fantastic manila clams seasoned with dill scallops in a tasty soy dressing and a tiny pile of dungeness crab atop a sublime butter sauce
+{FOOD#QUALITY, positive}, {FOOD#STYLE_OPTIONS, positive}
+
+#579
+for my entrée i completely enjoyed the seared alaskan sea scallops complemented by chard artichoke hearts fennel and pecorino toscano
+{FOOD#QUALITY, positive}
+
+#580
+the scallops are apparently cooked in a black olive butter which really makes them unique not to mention tasty
+{FOOD#QUALITY, positive}
+
+#581
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans
+{FOOD#QUALITY, positive}
+
+#582
+i had a taste of all three items on her plate and they were superb
+{FOOD#QUALITY, positive}
+
+#583
+our server continued to be attentive throughout the night but i did remain puzzled by one issue who thinks that rays is an appropriate place to take young children for dinner
+{SERVICE#GENERAL, negative}
+
+#584
+two rascally kids were seated near us for the first part of our dinnerthey were replaced by a delightful preteen who pretended to gag every time seafood was mentioned at her table
+{SERVICE#GENERAL, negative}
+
+#585
+all considered i have to say that rays boathouse is deserving of its title as a seattle institution
+{RESTAURANT#GENERAL, positive}
+
+#586
+while i could have done without the youth who shared the evening with us our wonderful server and food made the experience a very positive one
+{SERVICE#GENERAL, positive}, {FOOD#QUALITY, positive}
+
+#587
+oh yeahthe view was good too
+{LOCATION#GENERAL, positive}
+
