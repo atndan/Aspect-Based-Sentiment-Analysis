@@ -5,11 +5,12 @@ A text analysis technique that divides the text data and defines its sentiment b
 
 Demo: 
 
-<img src="https://youtu.be/s_FLBVJz7iM" alt="alt_text" width="200">
 
-<a href="https://youtu.be/s_FLBVJz7iM" target="_blank">
- <img src="https://youtu.be/s_FLBVJz7iM" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+
+
+https://user-images.githubusercontent.com/91353356/193445751-5d6a28e7-a8cb-4eb1-87aa-197c1c72f011.mov
+
+
 
 
 
