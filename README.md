@@ -5,7 +5,4 @@ A text analysis technique that divides the text data and defines its sentiment b
 
 Demo: 
 
-
-
-https://user-images.githubusercontent.com/91353356/193444232-3a4c5bf3-7809-4744-a004-b857818106e6.mov
-
+![](https://github.com/atndan/Aspect-Based-Sentiment-Analysis/blob/main/sentiment%20demo.gif)
